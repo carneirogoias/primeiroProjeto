@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+}
+
+.pagamento{
+font-weight: 600;
+margin-bottom: 2px;
+cursor:pointer;
+color: black;
+} 
+
+.background-index{
+background-image: url("C:/Users/55489/Documents/meu%20projeto/Recursos/background-index.png");
+}
+
+.header{
+margin-bottom: 13.5%;
+}
+
+
+.poetryDiv{
+    margin-bottom: 10%;
+    margin-left: 30%;
+    background-color: rgba(1,1, 1, 0.25);
+    border: 1px rgba(1,1,1,0.25);
+    border-radius: 5px;
+    width: 40%;
+}
+
+.poetry{
+    line-height: 30px;
+    font-weight: 900;
+    font-size: 15px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
